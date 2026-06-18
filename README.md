@@ -1,16 +1,61 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**VillicanaDaniel/VillicanaDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Daniel Villicana 👋
 
-Here are some ideas to get you started:
+<img src="./assets/cherryBlossom.png" width="100%" alt="Cherry Blossom Banner"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img src="./assets/sherma.gif" width="200" alt="Wizard Mascot"/>
+
+### Game Programmer | SMU Guildhall Graduate Student
+
+Building gameplay systems, tools, rendering features, and AI experiences.
+
+</div>
+
+---
+
+## About Me
+
+I'm a game programmer with experience developing games and engine features in:
+
+- Unreal Engine 5 (C++)
+- Custom C++ Game Engines
+- Gameplay Programming
+- AI Systems
+- Rendering & Graphics
+- Tools Development
+
+Currently focused on:
+
+- Gameplay Engineering
+- Graphics Programming
+- Technical Design
+- Engine Architecture
+
+---
+
+## 📂 Portfolio
+
+Portfolio Website:
+
+[https://your-portfolio-link.com](https://danielvillicana.com/)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/your-linkedin
+- Portfolio: [https://your-portfolio-link.com](https://danielvillicana.com/)
+- Email: djvillicana@gmail.com
+
+---
+
+<div align="center">
+
+### Thanks for visiting!
+
+<img src="./assets/sherma.gif" width="120"/>
+
+</div>
