@@ -6,8 +6,6 @@
 
 <br>
 
-<img src="./assets/sherma.gif" width="200" alt="Wizard Mascot"/>
-
 ### Game Programmer | SMU Guildhall Graduate Student
 
 Building gameplay systems, tools, rendering features, and AI experiences.
