@@ -44,7 +44,7 @@ Portfolio Website:
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/your-linkedin
+- LinkedIn: [https://www.linkedin.com/in/daniel-villicana-6b28191ba/](https://www.linkedin.com/in/daniel-villicana-6b28191ba/)
 - Portfolio: [https://danielvillicana.com/](https://danielvillicana.com/)
 - Email: djvillicana@gmail.com
 
