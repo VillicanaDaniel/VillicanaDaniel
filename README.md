@@ -38,14 +38,14 @@ Currently focused on:
 
 Portfolio Website:
 
-[https://your-portfolio-link.com](https://danielvillicana.com/)
+[https://danielvillicana.com/](https://danielvillicana.com/)
 
 ---
 
 ## 📫 Contact
 
 - LinkedIn: https://linkedin.com/in/your-linkedin
-- Portfolio: [https://your-portfolio-link.com](https://danielvillicana.com/)
+- Portfolio: [https://danielvillicana.com/](https://danielvillicana.com/)
 - Email: djvillicana@gmail.com
 
 ---
