@@ -34,7 +34,7 @@ Currently focused on:
 
 ---
 
-## 📂 Portfolio
+## Portfolio
 
 Portfolio Website:
 
@@ -42,7 +42,7 @@ Portfolio Website:
 
 ---
 
-## 📫 Contact
+## Contact
 
 - LinkedIn: [https://www.linkedin.com/in/daniel-villicana-6b28191ba/](https://www.linkedin.com/in/daniel-villicana-6b28191ba/)
 - Portfolio: [https://danielvillicana.com/](https://danielvillicana.com/)
