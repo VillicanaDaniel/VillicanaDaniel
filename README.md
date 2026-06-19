@@ -3,6 +3,7 @@
 # Hi, I'm Daniel Villicana 👋
 
 <img src="./assets/cherryBlossom.png" width="100%" alt="Cherry Blossom Banner"/>
+<figcaption><em>Some spritework I made</em></figcaption>
 
 <br>
 
